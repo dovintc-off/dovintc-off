@@ -54,7 +54,7 @@ The project follows a strict modular structure to ensure scalability:
 ```
 EOCS/
 ├── src/                    # Core source code directory
-│   ├── TextRenderer/         # Module for 2D text rendering using OpenGL
+│   ├── TextRenderer/       # Module for 2D text rendering using OpenGL
 │   │   ├── FontAtlas.cs    # Generates texture atlases from font files for efficient batching
 │   │   ├── GlyphData.cs    # Stores metadata for individual characters (UV coords, advance, size)
 │   │   └── TextRenderer.cs # Main class handling string drawing, positioning, and color
@@ -72,7 +72,7 @@ EOCS/
 │
 ├── Main.cs                 # Entry point for game loop logic (Update/Draw cycles)
 ├── Program.cs              # Application entry point (Window initialization, context creation)
-└── EOCS.sln            # Visual Studio Solution file
+└── EOCS.sln                # Visual Studio Solution file
 ```
 
 ## Contributing
