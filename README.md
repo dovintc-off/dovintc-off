@@ -47,16 +47,6 @@
 
 ---
 
-## Showcase
-
-<div align="center">
-  <!-- <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="20%" alt="Engine Demo"> -->
-  <br>
-  <sub>Real-time rendering and camera control</sub>
-</div>
-
----
-
 ## Project Structure
 
 The project follows a strict modular structure to ensure scalability:
@@ -85,33 +75,6 @@ EOCS/
 └── EOCS.sln            # Visual Studio Solution file
 ```
 
----
-
-## Installation
-
-### Prerequisites
-- [.NET 6.0 SDK](https://dotnet.microsoft.com/download/) or higher
-- [Visual Studio 2022](https://visualstudio.microsoft.com/) or [VS Code](https://code.visualstudio.com/)
-
-### Steps
-1. **Clone the repository:**
-   ```
-   git clone https://github.com/dovintc-off/Engine-on-CSharp
-   cd Engine-on-CSharp
-   ```
-
-2. **Restore dependencies:**
-   ```
-   dotnet restore
-   ```
-
-3. **Build and Run:**
-   ```
-   dotnet run
-   ```
-
----
-
 ## Contributing
 
 Contributions are welcome! If you want to improve the codebase:
@@ -120,12 +83,6 @@ Contributions are welcome! If you want to improve the codebase:
 3. Commit your changes (`git commit -m 'Add some AmazingFeature'`).
 4. Push to the branch (`git push origin feature/AmazingFeature`).
 5. Open a Pull Request.
-
----
-
-## License
-
-This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for details.
 
 ---
 
