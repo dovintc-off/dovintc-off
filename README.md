@@ -21,10 +21,10 @@
   </div>
 
   <div style="margin-top: 20px;">
-    <a href="https://github.com/dovintc-off/Engine-on-CSharp/releases">
+    <a href="https://github.com/Xwared-Team/Engine-on-CSharp/releases">
       <img src="https://img.shields.io/badge/Download-Latest%20Release-2ea44f?style=for-the-badge&logo=github" alt="Download">
     </a>
-    <a href="https://github.com/dovintc-off/Engine-on-CSharp/wiki">
+    <a href="https://github.com/Xwared-Team/Engine-on-CSharp/wiki">
       <img src="https://img.shields.io/badge/Documentation-Wiki-0078D4?style=for-the-badge&logo=readthedocs" alt="Docs">
     </a>
     <a href="https://discord.gg/P7nzsdgZ7F">
