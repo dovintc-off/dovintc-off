@@ -47,34 +47,6 @@
 
 ---
 
-## Project Structure
-
-The project follows a strict modular structure to ensure scalability:
-
-```
-EOCS/
-├── src/                    # Core source code directory
-│   ├── TextRenderer/       # Module for 2D text rendering using OpenGL
-│   │   ├── FontAtlas.cs    # Generates texture atlases from font files for efficient batching
-│   │   ├── GlyphData.cs    # Stores metadata for individual characters (UV coords, advance, size)
-│   │   └── TextRenderer.cs # Main class handling string drawing, positioning, and color
-│   ├── ObjLoader.cs        # Parses .obj files and loads vertex/texture/normal data into buffers
-│   └── SkyBox.cs           # Manages the cubemap texture and renders the surrounding environment
-│
-├── Assets/                 # Static resources loaded at runtime
-│   ├── 3D_objects/         # Directory for 3D models (.obj, .mtl)
-│   ├── fonts/              # Font files (.ttf, .otf) used by TextRender module
-│   ├── shaders/            # GLSL shader programs
-│   │   ├── main/           # Default shaders for basic 3D object rendering
-│   │   ├── SkyBox/         # Shaders specifically for cubemap projection
-│   │   └── Text/           # Shaders for signed-distance-field (SDF) or bitmap text rendering
-│   └── SkyBox/             # Cubemap textures (posx, negx, posy, etc.) for the environment
-│
-├── Main.cs                 # Entry point for game loop logic (Update/Draw cycles)
-├── Program.cs              # Application entry point (Window initialization, context creation)
-└── EOCS.sln                # Visual Studio Solution file
-```
-
 ## Contributing
 
 Contributions are welcome! If you want to improve the codebase:
