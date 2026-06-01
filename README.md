@@ -34,7 +34,7 @@
 
 | Technology | Stack / Context | Experience |
 | :--- | :--- | :--- |
-| **C#** | OpenTK, 3D (EOCS Engine) | ~3-5 months |
+| **C#** | OpenTK, 3D | ~3-5 months |
 | **C#** | OpenTK, 2D | ~1 month |
 | **Lua** | LÖVE (Love2D), 2D | ~2 weeks |
 | **Python** | Flask, Backend | ~2 weeks|
