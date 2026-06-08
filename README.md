@@ -29,21 +29,6 @@
       </td>
     </tr>
   </table>
-  
-  # Need help with development? <br> I can help!
-
-| Technology | Stack / Context | Experience |
-| :--- | :--- | :--- |
-| **C#** | OpenTK, 3D | ~3-5 months |
-| **C#** | OpenTK, 2D | ~1 month |
-| **Lua** | LÖVE (Love2D), 2D | ~2 weeks |
-| **Python** | Flask, Backend | ~2 weeks|
-| **JavaScript** | Mindustry Modding | ~2 week |
-| **JavaScript** | Web Development | ~3-4 week |
-| **HTML/CSS** | Web Design | ~1-2 month |
-| **Java** | Minecraft Forge Modding | ~2-3 month |
-| **JSON** | Minecraft Resource Pack | ~1 week |
-| **Hjson/JSON** | Configuration Systems | ~2-3 week |
 
 Development time depends on the complexity of the project, the table uses **approximate** data*<br>
 Write me on my social messengers:<br>
