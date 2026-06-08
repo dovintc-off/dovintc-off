@@ -30,7 +30,6 @@
     </tr>
   </table>
 
-Development time depends on the complexity of the project, the table uses **approximate** data*<br>
 Write me on my social messengers:<br>
 <a href="https://t.me/Dovintc" style="text-decoration: none; color: #58a6ff; font-family: sans-serif; font-size: 14px;">Telegramm</a>
 or
