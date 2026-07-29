@@ -6,3 +6,11 @@
   <img src="https://raw.githubusercontent.com/dovintc-off/dovintc-off/output/github-contribution-grid-snake-dark.svg" alt="snake" />
 </p>
 
+<p>
+  <a href="https://github.com/kpab">
+    <img height="170px" src="https://github-readme-stats-mauve-nine-71.vercel.app/api?username=dovintc-off&count_private=true&show_icons=true&theme=github_dark" />
+  </a>
+  <a href="https://github.com/kpab">
+    <img height="170px" src="https://github-readme-stats-mauve-nine-71.vercel.app/api/top-langs/?username=dovintc-off&layout=compact&theme=github_dark&count_private=true" />
+  </a>
+</p>
